@@ -9,6 +9,16 @@
 - ~~returns message at at random index of array~~
 - ~~prints message at random index of array~~
 
+## createRand Message
+
+- Holds an array of message componenets
+  - make array of components
+- Holds an array of connecting strings
+  - make mad lib strings
+    - mad lib style connecting the message components
+- print the mad lib style rand message
+- return the mad lib stlye rand message
+
 ## jsonReader
 
 - reads json file and returns an array of messages
