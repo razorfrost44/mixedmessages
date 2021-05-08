@@ -106,6 +106,12 @@ generateLib1();
 generateLib2();
 generateLib3();
 
+// Print a few random messages
+
+for (let i = 0; i < 10; i++) {
+    printRandomMessage();
+}
+
 // Tests
 // getRandomWholeNumber
 /*
